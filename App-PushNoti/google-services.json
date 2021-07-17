@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876928580780",
+    "firebase_url": "https://app-testnoti.firebaseio.com",
+    "project_id": "app-testnoti",
+    "storage_bucket": "app-testnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876928580780:android:afd06af5a23b496479f309",
+        "android_client_info": {
+          "package_name": "com.companyname.app_pushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876928580780-1a5540kdiupef1qla16siv0f08qeg2ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4aYzGIx5h_JaajAxfHyu-8GpznfRZGqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876928580780-1a5540kdiupef1qla16siv0f08qeg2ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
